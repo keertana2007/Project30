@@ -19,7 +19,7 @@ class Box_2 {
         translate(pos.x, pos.y);
         rotate(angle);
         rectMode(CENTER);
-        fill("red");
+        fill("magenta");
         rect(0,0, this.width, this.height);
       }
       else{
